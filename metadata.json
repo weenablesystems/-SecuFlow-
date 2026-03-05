@@ -1,0 +1,7 @@
+{
+  "name": "🌐SA-iLabs™ Emma-Ai™ Security Ops",
+  "description": "AI Command Center for Physical Security Operations. Automating intake, triage, dispatch, and compliance reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
